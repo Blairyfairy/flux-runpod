@@ -1,0 +1,11 @@
+runpod>=1.12.0
+diffusers>=0.31.0
+transformers>=4.44.0
+accelerate>=0.34.0
+safetensors>=0.4.4
+sentencepiece>=0.2.0
+huggingface_hub>=0.25.0
+hf_transfer>=0.1.8
+protobuf>=4.25.3
+Pillow>=10.4.0
+torch
